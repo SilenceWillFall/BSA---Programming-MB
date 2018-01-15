@@ -1,5 +1,3 @@
-#!/usr/bin/env Python3
-
 #...initialize looping variable, assume 'yes' as the first answer
 continueYN = "y"
 
